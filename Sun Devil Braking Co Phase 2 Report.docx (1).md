@@ -5,6 +5,9 @@
 
 **February 2, 2026**
 
+## Video Presentation
+[Watch my presentation on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/9wrv2FBykvg))
+
 **Introduction:**
 
 Sun Devil Braking Co. is a newly founded company that is working on creating efficient and reliable braking systems for general automobiles. This report will cover the second phase of the design, development, and testing of the team's braking system design, including a full 3D CAD model of the brake system and its components. The following model was developed in Solidworks and then analyzed using Ansys. To evaluate the structural and thermal performance of the system, analyses were performed specifically on the brake rotor, including transient structural analyses, transient thermal analyses, and static structural analyses.  Building on failure modes discussed in phase one, these analyses will serve to validate critical design choices such as material and/or geometric tolerances. Additional design choices were made taking into account 3D printing capabilities and constraints. Altogether the CAD model and results from these analyses indicate that the rotor remains safe under assumed conservative loads and deformation limits, and the brake system will be ready for prototyping and physical testing in phase three.
