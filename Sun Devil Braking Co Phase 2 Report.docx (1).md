@@ -6,7 +6,7 @@
 **February 2, 2026**
 
 ## Video Presentation
-[Watch my presentation on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/9wrv2FBykvg))
+[Watch my presentation on YouTube]: https://youtu.be/9wrv2FBykvg?si=OX6o80zEhFZPpetJ
 
 **Introduction:**
 
